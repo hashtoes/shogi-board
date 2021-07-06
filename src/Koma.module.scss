@@ -1,0 +1,13 @@
+.koma {
+  &.movable {
+    cursor: pointer;
+  }
+
+  &.gote {
+    transform: rotate(180deg);
+  }
+
+  &.holding {
+    font-weight: bold;
+  }
+}

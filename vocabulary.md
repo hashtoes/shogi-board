@@ -1,0 +1,10 @@
+masu = マス
+koma = 駒
+  mochiGoma = 持ち駒
+nari = 成り
+naru = 成る
+sente = 先手
+gote = 後手
+teme = n手目
+kiki = 駒の利き
+taken = 駒がとられること

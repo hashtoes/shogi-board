@@ -1,0 +1,85 @@
+.masu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 20px;
+  height: 30px;
+
+  &.sente-1 {
+    background-color: rgb(195, 255, 255);
+
+    &.gote-1 {
+      background-color: rgb(195, 195, 255);
+    }
+    &.gote-2 {
+      background-color: rgb(195, 135, 255);
+    }
+    &.gote-3 {
+      background-color: rgb(195, 75, 255);
+    }
+    &.gote-4 {
+      background-color: rgb(195, 15, 255);
+    }
+  }
+  &.sente-2 {
+    background-color: rgb(135, 255, 255);
+
+    &.gote-1 {
+      background-color: rgb(135, 195, 255);
+    }
+    &.gote-2 {
+      background-color: rgb(135, 135, 255);
+    }
+    &.gote-3 {
+      background-color: rgb(135, 75, 255);
+    }
+    &.gote-4 {
+      background-color: rgb(135, 15, 255);
+    }
+  }
+  &.sente-3 {
+    background-color: rgb(75, 255, 255);
+
+    &.gote-1 {
+      background-color: rgb(75, 195, 255);
+    }
+    &.gote-2 {
+      background-color: rgb(75, 135, 255);
+    }
+    &.gote-3 {
+      background-color: rgb(75, 75, 255);
+    }
+    &.gote-4 {
+      background-color: rgb(75, 15, 255);
+    }
+  }
+  &.sente-4 {
+    background-color: rgb(15, 255, 255);
+
+    &.gote-1 {
+      background-color: rgb(15, 195, 255);
+    }
+    &.gote-2 {
+      background-color: rgb(15, 135, 255);
+    }
+    &.gote-3 {
+      background-color: rgb(15, 75, 255);
+    }
+    &.gote-4 {
+      background-color: rgb(15, 15, 255);
+    }
+  }
+
+  &.gote-1 {
+    background-color: rgb(255, 195, 255);
+  }
+  &.gote-2 {
+    background-color: rgb(255, 135, 255);
+  }
+  &.gote-3 {
+    background-color: rgb(255, 75, 255);
+  }
+  &.gote-4 {
+    background-color: rgb(255, 15, 255);
+  }
+}

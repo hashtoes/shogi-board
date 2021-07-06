@@ -1,0 +1,10 @@
+.mochigoma {
+  margin: 0 10px;
+  width: 16px;
+  display: flex;
+  flex-direction: column;
+
+  &.sente {
+    justify-content: flex-end;
+  }
+}
