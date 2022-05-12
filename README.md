@@ -12,5 +12,6 @@ git push heroku master
 ### Deploy to GitHub Pages
 
 ```
+yarn build
 yarn gh-deploy
 ```
