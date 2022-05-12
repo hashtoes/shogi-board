@@ -1,22 +1,13 @@
 {
   "files": {
-    "main.css": "/shogi-board/static/css/main.331160fc.chunk.css",
-    "main.js": "/shogi-board/static/js/main.a49fedaf.chunk.js",
-    "main.js.map": "/shogi-board/static/js/main.a49fedaf.chunk.js.map",
-    "runtime-main.js": "/shogi-board/static/js/runtime-main.fcfd3988.js",
-    "runtime-main.js.map": "/shogi-board/static/js/runtime-main.fcfd3988.js.map",
-    "static/js/2.f33bbcbd.chunk.js": "/shogi-board/static/js/2.f33bbcbd.chunk.js",
-    "static/js/2.f33bbcbd.chunk.js.map": "/shogi-board/static/js/2.f33bbcbd.chunk.js.map",
+    "main.css": "/shogi-board/static/css/main.d7da6233.css",
+    "main.js": "/shogi-board/static/js/main.9e83def4.js",
     "index.html": "/shogi-board/index.html",
-    "precache-manifest.ff09ead625a022628f34ced169c3ac66.js": "/shogi-board/precache-manifest.ff09ead625a022628f34ced169c3ac66.js",
-    "service-worker.js": "/shogi-board/service-worker.js",
-    "static/css/main.331160fc.chunk.css.map": "/shogi-board/static/css/main.331160fc.chunk.css.map",
-    "static/js/2.f33bbcbd.chunk.js.LICENSE.txt": "/shogi-board/static/js/2.f33bbcbd.chunk.js.LICENSE.txt"
+    "main.d7da6233.css.map": "/shogi-board/static/css/main.d7da6233.css.map",
+    "main.9e83def4.js.map": "/shogi-board/static/js/main.9e83def4.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.fcfd3988.js",
-    "static/js/2.f33bbcbd.chunk.js",
-    "static/css/main.331160fc.chunk.css",
-    "static/js/main.a49fedaf.chunk.js"
+    "static/css/main.d7da6233.css",
+    "static/js/main.9e83def4.js"
   ]
 }
